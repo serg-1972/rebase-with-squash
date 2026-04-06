@@ -1,1 +1,2 @@
 This is forth file.
+New line in file4.txt.
